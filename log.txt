@@ -1,0 +1,6 @@
+Invalid record: 12345 Carol Brown carol.brown@domain.com
+Invalid record: 123456789012 David Lee david.lee@domain.com
+Invalid record: 123456789A Eve Adams eve.adams@domain.com
+Invalid record: 1234567892 F@ith Miller faith.miller@domain.com
+Invalid record: 1234567893 George O'Neill george.oneill@school.edu
+Invalid record: 1234567894 Hannah White hannah@edu.org

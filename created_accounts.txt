@@ -1,0 +1,7 @@
+AccountID   First       Last        Email                        AvailBal     PresBal
+15599801    Alice       Johnson     alice.johnson@school.edu         0.00      150.00
+49576502    Bob         Smith       bob.smith@gmail.com              0.00      100.00
+70403303    Jane        Doe         jane.doe@university.edu          0.00      150.00
+86667904    Kyle        Green       kyle.green@gmail.com             0.00      100.00
+43484805    Li          Wei         li.wei@college.edu               0.00      150.00
+22730806    Paul        King        paul.king@gmail.com              0.00      100.00
